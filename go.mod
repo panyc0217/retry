@@ -1,4 +1,4 @@
-module github.com/hankisei/retry
+module github.com/panyc0217/retry
 
 go 1.15
 
